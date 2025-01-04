@@ -30,7 +30,7 @@ const TitleSectionPageContainer = ({ title, color }: TitleSectionProps) => {
           WebkitBackgroundClip: 'text',
           WebkitTextFillColor: 'transparent'
         }}
-        className="font-bold text-4xl md:text-5xl tracking-tight mb-8 text-center font-sans"
+        className="font-bold font-montserrat text-6xl md:text-6xl tracking-tight mb-8 text-center"
       >
         {title}
       </h2>

@@ -5,6 +5,7 @@
 html,
 body {
   scroll-behavior: smooth;
+  font-family: var(--font-graphik), 'Montserrat', sans-serif;
 }
 :root {
   --colors-pink: #ec4899; /* Tailwind pink-500 */
