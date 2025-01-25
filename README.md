@@ -1,4 +1,3 @@
-![40shots_so](https://github.com/jeandv/my-next-portfolio/assets/90219458/da737d03-e841-4ce0-a9e3-e5f187073412)
 
 ⚡My new portfolio with Blog using Next.js 13 + TypeScript, Tailwind CSS and Sanity CMS⚡
 
@@ -9,15 +8,6 @@ I also use in web, mobile and desktop development Next.js, Angular, Ionic and El
 I am currently learning the way to be a DevOps, the reason why I am interested in this area is to know something different from programming and at the same time very useful in the present and in the future, in short I take it as an investment in myself in case I have a job that requires this skill.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-## Autor 🤠
-
-· Email: jeanrdev@gmail.com <br>
-· [CV](https://rxresu.me/jeandv/cv-jean-rondon) <br>
-· [Portfolio](https://jeandv.vercel.app) <br>
-· [LinkedIn](https://linkedin.com/in/jeandv) <br>
-· [GitHub](https://github.com/jeandv) <br>
-· [Whatsapp](https://walink.co/2369d5)
 
 ## Website URL 👁‍🗨
 
